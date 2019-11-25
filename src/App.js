@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
 import DisplayAndContainer from './Components/DC/index';
 import HigherOrderComponent from './Components/HOC/index';
 import PropsChildren from './Components/PropsChildren/index';

@@ -1,9 +1,14 @@
 import React, { Component } from 'react';
+import Container from './Container';
+
 
 export default class DisplayAndContainer extends Component {
     render() {
         return (
-            <div>Display Container</div>
+            <div>
+            <h1>Display And Container</h1>
+            <Container />
+            </div>
         )
     }
 }
